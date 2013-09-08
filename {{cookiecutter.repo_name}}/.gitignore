@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.bak
+input/
+_temp/
+output/
+.Rhistory
+.Rdata
+*.pyc
+*.pyo

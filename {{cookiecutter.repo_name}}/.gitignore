@@ -8,3 +8,4 @@ output/
 .Rdata
 *.pyc
 *.pyo
+.drake/

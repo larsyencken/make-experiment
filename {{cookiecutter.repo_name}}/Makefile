@@ -5,8 +5,7 @@
 default: help
 
 help:
-	@echo "=== {{repo_name}} experiment ==="
-	@echo
+	@echo "=== {{cookiecutter.repo_name}} ==="
 	@echo
 	@echo "Usage:"
 	@echo
